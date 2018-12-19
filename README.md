@@ -1,2 +1,2 @@
 # AEDS-Limited-angle-reconstruction-
-An Image Reconstruction code for Limited-angle Computed Tomography 
+An image reconstruction code for limited-angle Computed Tomography 
